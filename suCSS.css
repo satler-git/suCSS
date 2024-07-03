@@ -215,7 +215,7 @@ p {
 /* format links */
 a,
 a:visited {
-  text-decoration: none;
+/*  text-decoration: none; */
   border-radius: .125rem;
   color: var(--link);
 }
